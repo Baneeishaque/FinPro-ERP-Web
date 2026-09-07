@@ -1,0 +1,6 @@
+interface:
+  display_name: "Finpro Erp Web"
+  short_description: "Repo-specific patterns and workflows for finpro-erp-web"
+  default_prompt: "Use the finpro-erp-web repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
